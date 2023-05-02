@@ -1,0 +1,15 @@
+{
+  "name": "shiny-octo-sniffle-kilo",
+  "version": "1.0.0",
+  "description": "Spring 2023 Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
